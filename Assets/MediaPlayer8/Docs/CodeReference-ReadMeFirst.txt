@@ -1,0 +1,1 @@
+open the "frame8->MediaPlayer8->Code reference" menu item in Unity Editor menu bar to browse the code reference

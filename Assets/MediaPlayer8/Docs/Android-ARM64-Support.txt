@@ -1,0 +1,1 @@
+For Android ARM64 support, you need at least Unity 2017.4.16

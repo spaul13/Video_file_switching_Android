@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MediaPlayer8/Scenes/Example_VR.unity
+  isLoaded: 1
+  isActive: 1
